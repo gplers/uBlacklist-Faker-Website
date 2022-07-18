@@ -1,3 +1,4 @@
 *://www.potplayercn.com/*
 *://vue3js.cn/*
 *://nodejs.cn/*
+*://www.pnpm.cn/*
