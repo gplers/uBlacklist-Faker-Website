@@ -8,3 +8,16 @@
 3. 充斥着大量影响阅读的广告
 4. 存在不必要的限制，例如登录后查看
 5. 非法牟利(例如 nodejs.cn)
+6. 官方已经提供了完整的本地化支持的情况，相似的网站会被移除
+
+## 已经提供了完整中文支持的官网
+
++ [axios.js](https://axios-http.com/zh/)
++ [vue.js (v3)](https://v3.cn.vuejs.org/)
++ [vue.js (v2)](https://cn.vuejs.org/)
++ [pnpm](https://pnpm.io/zh/)
++ [potplayer](https://potplayer.daum.net/?lang=zh_CN)
+
+## 已经提供了部分中文支持的官网
+
++ [node.js](https://nodejs.org/zh-cn/) (缺少 API 中文文档)
