@@ -4,3 +4,4 @@
 *://www.pnpm.cn/*
 *://axios-js.com/*
 *://www.axios-http.cn/*
+*://rust.ffactory.org/*
