@@ -23,6 +23,7 @@
 
 + [node.js](https://nodejs.org/zh-cn/) (缺少 API 中文文档)
 + [ESLint](https://eslint.org/) (缺少中文文档)
++ [TypeScript](https://www.typescriptlang.org/zh/) (有语言选项，但几乎没中文支持)
 
 ## 未提供中文支持的官网
 
