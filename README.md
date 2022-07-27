@@ -15,6 +15,7 @@
 + [axios.js](https://axios-http.com/zh/)
 + [vue.js (v3)](https://v3.cn.vuejs.org/)
 + [vue.js (v2)](https://cn.vuejs.org/)
++ [react.js](https://zh-hans.reactjs.org/)
 + [pnpm](https://pnpm.io/zh/)
 + [potplayer](https://potplayer.daum.net/?lang=zh_CN)
 + [rust lang](https://www.rust-lang.org/zh-CN/)
