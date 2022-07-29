@@ -31,3 +31,4 @@
 
 + [snap.svg](http://snapsvg.io/)
 + [Babel](https://babeljs.io/)
++ [Prettier](https://prettier.io/)
