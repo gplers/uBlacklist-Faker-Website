@@ -32,3 +32,4 @@
 + [snap.svg](http://snapsvg.io/)
 + [Babel](https://babeljs.io/)
 + [Prettier](https://prettier.io/)
++ [vue-treeselect.js](https://vue-treeselect.js.org/)
