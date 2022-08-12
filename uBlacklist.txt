@@ -6,3 +6,4 @@
 *://www.axios-http.cn/*
 *://rust.ffactory.org/*
 *://www.prettier.cn/*
+*://www.vue-treeselect.cn/*
