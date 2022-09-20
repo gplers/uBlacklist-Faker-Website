@@ -19,6 +19,7 @@
 + [pnpm](https://pnpm.io/zh/)
 + [potplayer](https://potplayer.daum.net/?lang=zh_CN)
 + [rust lang](https://www.rust-lang.org/zh-CN/)
++ [verdaccio](https://verdaccio.org/zh-CN/)
 
 ## 已经提供了部分中文支持的官网
 
