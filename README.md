@@ -1,6 +1,13 @@
 # uBlacklist-Faker-Website
 从搜索引擎中移除仿冒网站(例如 XX中文网)，提高搜索准确度。（建议搭配内容农场屏蔽列表使用）
 
+## 使用
+
+uBlacklist 订阅以下地址
+```
+https://raw.githubusercontent.com/gplers/uBlacklist-Faker-Websites/master/uBlacklist.txt
+```
+
 ## 该列表会移除以下网站
 
 1. 存在误导信息
