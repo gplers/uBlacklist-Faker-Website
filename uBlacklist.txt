@@ -7,3 +7,4 @@
 *://rust.ffactory.org/*
 *://www.prettier.cn/*
 *://www.vue-treeselect.cn/*
+*://*.docschina.org/*
