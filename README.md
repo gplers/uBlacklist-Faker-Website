@@ -8,10 +8,10 @@ uBlacklist 订阅以下地址
 https://raw.githubusercontent.com/gplers/uBlacklist-Faker-Websites/master/uBlacklist.txt
 ```
 
-## 该列表会移除以下网站
+## 该列表会移除以下几种网站
 
 1. 存在误导信息
-2. 质量低下（例如 机翻，或翻译不完整）
+2. 质量低下（例如 机翻、翻译不完整、翻译严重过时）
 3. 充斥着大量影响阅读的广告
 4. 存在不必要的限制，例如登录后查看
 5. 非法牟利(例如 nodejs.cn)
