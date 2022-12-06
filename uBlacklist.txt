@@ -9,3 +9,4 @@
 *://www.vue-treeselect.cn/*
 *://*.docschina.org/*
 *://*.apachecn.org/*
+*://*.cnbabylon.com/*
