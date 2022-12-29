@@ -10,3 +10,4 @@
 *://*.docschina.org/*
 *://*.apachecn.org/*
 *://*.cnbabylon.com/*
+*://www.jenkins.org.cn/*
