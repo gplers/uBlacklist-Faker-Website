@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/gplers/uBlacklist-Faker-Websites/master/uBlack
 + [potplayer](https://potplayer.daum.net/?lang=zh_CN)
 + [rust lang](https://www.rust-lang.org/zh-CN/)
 + [verdaccio](https://verdaccio.org/zh-CN/)
++ [Jenkins](https://www.jenkins.io/zh/)
 
 ## 已经提供了部分中文支持的官网
 
