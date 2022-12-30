@@ -11,3 +11,4 @@
 *://*.apachecn.org/*
 *://*.cnbabylon.com/*
 *://www.jenkins.org.cn/*
+*://eslint.cn/*
