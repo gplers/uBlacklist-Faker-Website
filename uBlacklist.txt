@@ -12,3 +12,4 @@
 *://*.cnbabylon.com/*
 *://www.jenkins.org.cn/*
 *://eslint.cn/*
+*://*.three3d.cn/*
