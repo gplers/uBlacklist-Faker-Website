@@ -27,3 +27,4 @@
 *://*.ngui.cc/*
 *://*.koajs.com.cn/*
 *://*.minio.org.cn/*
+*://*.tailwindcss.cn/*
